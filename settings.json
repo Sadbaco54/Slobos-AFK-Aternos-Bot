@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Ishowslow918.aternos.me",
+    "ip": "Ishowslow918.aternos.me:26334",
     "port": 26334,
     "version": "",
     "try-creative": false
